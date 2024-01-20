@@ -7,7 +7,6 @@
  number of times. print any of them.
 
  Input:
- n = 6;
  arr[] = {1,4,2,5,1,4,4,6,4,4,4,6,2,2}
 
  Expected Output: 4
